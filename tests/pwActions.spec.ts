@@ -47,7 +47,7 @@ test('Test Radio Button Actions', async ({ page }) => {
 
 })
 
-test.only("test Check box Actions", async ({ page }) => {
+test("test Check box Actions", async ({ page }) => {
     await page.goto('https://testautomationpractice.blogspot.com/');
 
     //1. Select specific check box
