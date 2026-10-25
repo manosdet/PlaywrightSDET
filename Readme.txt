@@ -24,4 +24,10 @@ git commit -m "Your daily update message here"
 # 3. Push your new commits to the remote GitHub repository
 git push
 
-git add . && git commit -m "Changed yml file" && git push
+git add . && git commit -m "Changed yml file" && git pushs
+
+expect.poll()
+toPass()
+baseURL()
+test.slow()
+testInfo()
